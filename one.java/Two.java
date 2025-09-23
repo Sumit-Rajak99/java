@@ -6,7 +6,7 @@ class Two {
 //     }
 
     
-//     public static void main(String args[]) {
+    public static void main(String args[]) {
 //         Two obj = new Two();  
 //         obj.a = 10;             
 //         System.out.println(obj.a); 
@@ -15,14 +15,18 @@ class Two {
 
 // encapsulation =merge member variable into member function /
 
-int a;
+// int a;
 
-void set(int a){
-    this.a=a;
-    System.out.println(this.a);
-}
-public static void  main(String args[]){
-    Two obj=new TWo();
-    obj.set(10);
-}
+// void set(int a){
+//     this.a=a;
+//     System.out.println(this.a);
+// }
+// public static void  main(String args[]){
+//     Two obj=new TWo();
+//     obj.set(10);
+// }
+// }
+
+system.out.print("hllow");
+    }
 }

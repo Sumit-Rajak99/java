@@ -5,7 +5,7 @@ class Hcf{
 
         System.out.print("Enter first number: ");
         int a = input.nextInt();
-
+        
         System.out.print("Enter second number: ");
         int b = input.nextInt();
 
